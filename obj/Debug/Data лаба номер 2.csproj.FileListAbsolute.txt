@@ -1,0 +1,36 @@
+c:\users\user\documents\visual studio 2015\Projects\Data лаба номер 2\Data лаба номер 2\bin\Debug\Data лаба номер 2.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Data лаба номер 2\Data лаба номер 2\bin\Debug\Data лаба номер 2.exe
+c:\users\user\documents\visual studio 2015\Projects\Data лаба номер 2\Data лаба номер 2\bin\Debug\Data лаба номер 2.pdb
+c:\users\user\documents\visual studio 2015\Projects\Data лаба номер 2\Data лаба номер 2\obj\Debug\Data лаба номер 2.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Data лаба номер 2\Data лаба номер 2\obj\Debug\Data_лаба_номер_2.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Data лаба номер 2\Data лаба номер 2\obj\Debug\Data_лаба_номер_2.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Data лаба номер 2\Data лаба номер 2\obj\Debug\Data лаба номер 2.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Data лаба номер 2\Data лаба номер 2\obj\Debug\Data лаба номер 2.exe
+c:\users\user\documents\visual studio 2015\Projects\Data лаба номер 2\Data лаба номер 2\obj\Debug\Data лаба номер 2.pdb
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\bin\Debug\Data лаба номер 2.exe.config
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\bin\Debug\Data лаба номер 2.exe
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\bin\Debug\Data лаба номер 2.pdb
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\obj\Debug\Data лаба номер 2.csprojAssemblyReference.cache
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\obj\Debug\Data_лаба_номер_2.Form1.resources
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\obj\Debug\Data_лаба_номер_2.Properties.Resources.resources
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\obj\Debug\Data лаба номер 2.csproj.GenerateResource.cache
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\obj\Debug\Data лаба номер 2.csproj.CoreCompileInputs.cache
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\obj\Debug\Data лаба номер 2.exe
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\obj\Debug\Data лаба номер 2.pdb
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\obj\Debug\Interop.WMPLib.dll
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Fr11nik\Desktop\Data лаба номер 2\obj\Debug\Data лаба номер 2.csproj.ResolveComReference.cache
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\bin\Debug\Data лаба номер 2.exe.config
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\bin\Debug\Data лаба номер 2.exe
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\bin\Debug\Data лаба номер 2.pdb
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\obj\Debug\Data_лаба_номер_2.Form1.resources
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\obj\Debug\Data_лаба_номер_2.Properties.Resources.resources
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\obj\Debug\Data лаба номер 2.csproj.GenerateResource.cache
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\obj\Debug\Data лаба номер 2.csproj.CoreCompileInputs.cache
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\obj\Debug\Data лаба номер 2.exe
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\obj\Debug\Data лаба номер 2.pdb
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\bin\Debug\Bunifu.dll
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\obj\Debug\Data лаба номер 2.csproj.CopyComplete
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\obj\Debug\Data лаба номер 2.csprojAssemblyReference.cache
