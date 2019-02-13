@@ -34,3 +34,15 @@ C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба н
 C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\bin\Debug\Bunifu.dll
 C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\obj\Debug\Data лаба номер 2.csproj.CopyComplete
 C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data лаба номер 2\obj\Debug\Data лаба номер 2.csprojAssemblyReference.cache
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data\bin\Debug\Data лаба номер 2.exe.config
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data\bin\Debug\Data лаба номер 2.exe
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data\bin\Debug\Data лаба номер 2.pdb
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data\bin\Debug\Bunifu.dll
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data\obj\Debug\Data лаба номер 2.csprojAssemblyReference.cache
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data\obj\Debug\Data_лаба_номер_2.Form1.resources
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data\obj\Debug\Data_лаба_номер_2.Properties.Resources.resources
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data\obj\Debug\Data лаба номер 2.csproj.GenerateResource.cache
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data\obj\Debug\Data лаба номер 2.csproj.CoreCompileInputs.cache
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data\obj\Debug\Data лаба номер 2.csproj.CopyComplete
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data\obj\Debug\Data лаба номер 2.exe
+C:\Users\Fr11nik\Desktop\Лабараторная +данные\Data\obj\Debug\Data лаба номер 2.pdb

@@ -3,23 +3,26 @@ using System.Data;
 using System.Linq;
 using System.Windows.Forms;
 using System.Net.Mail;
+using System.Collections.Generic;
+
 namespace Data_лаба_номер_2
 {
     public partial class Form1 : Form
     {
         CustomDataGridView dataGridView;
+        SqlData sqlData = new SqlData();
         public Form1()
         {
             InitializeComponent();
             dataGridView = new CustomDataGridView(397,544,19,54, 0, 4);
             Controls.Add(dataGridView);
+            WriteToDatagrid();
         }
         #region потом крч
         string[,] rows;
         private void Form1_Load(object sender, EventArgs e)
         {
-            dataGridView1.ColumnCount = 4;
-            dataGridView1.RowCount = 0;
+           
 
 
            
@@ -46,7 +49,7 @@ namespace Data_лаба_номер_2
                 }
 
                 dataGridView.Rows.Add(row);
-                dataGridView1.Rows.Add(row);
+                
 
             }
 
@@ -78,6 +81,16 @@ namespace Data_лаба_номер_2
 
         #endregion
 
+        
+        public void WriteToDatagrid()
+        {
+            List<string[]> dataSource=new List<string[]>();
+            sqlData.WriteSqlData(dataSource);
+            foreach (string[]s in dataSource)
+            {
+                dataGridView1.Rows.Add(s);
+            }
+        }
         public void ExitBtn(object sender, EventArgs e) => Application.Exit();
         InputFile input = new InputFile();
         DataTable dtDataGrid=new DataTable();
